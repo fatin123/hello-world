@@ -1,2 +1,5 @@
 # hello-world
-This is a hello world project.
+
+Hello,
+
+I want to develop awesome software.
